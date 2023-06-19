@@ -8,7 +8,7 @@ So that I can organize my thoughts and keep track of tasks I need to complete
 
 ## Application Description
 
-The application uses the express to connect the front end of the application to save, retrieve, and delete note data. There are multiple routes noted in the application for the HTML and the API. This application will be deployed through Heroku. 
+The application uses the node module express to connect the front end of the application to save, retrieve, and delete note data. There are multiple routes noted in the application for the HTML and the API. This application will be deployed through Heroku. 
 
 ## Github Repo Link
 
